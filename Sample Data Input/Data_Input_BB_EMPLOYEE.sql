@@ -20,4 +20,3 @@ VALUES
     ('E0018', 'Jena Jackson', 'Schedule', 'jo113@gmail.com', 6147958688, '2017-05-05', 53000),
     ('E0019', 'James Hatfield', 'Schedule', 'js144@gmail.com', 6147956666, '2019-05-05', 48000),
     ('E0020', 'Jerry Schemit', 'Schedule', 'js155@gmail.com', 6147977775, '2018-05-05', 46000);
-
